@@ -31,8 +31,6 @@
     </tr>
   </table>
 </div>
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=sirojiddin08&theme=tokyo-night&area=true" />
-
 ---
 
 📦 &nbsp;Tech Stack:
