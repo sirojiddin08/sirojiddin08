@@ -33,9 +33,9 @@
 </div>
 ---
 
-<h3 align="center">⏱️ My WakaTime Stats</h3>
+<h3>⏱️ My WakaTime Stats</h3>
 
-<div align="center">
+<div>
   <table>
     <tr>
       <td>
