@@ -31,6 +31,10 @@
     </tr>
   </table>
 </div>
+
+<div align="center">
+    <img src="https://github-readme-stats-rho-pearl-98.vercel.app/api/top-langs/?username=sirojiddin08&show_icons=true&layout=compact&theme=tokyonight" />
+</div>
 ---
 
 📦 &nbsp;Tech Stack:
