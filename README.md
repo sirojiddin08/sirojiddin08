@@ -20,8 +20,8 @@
 📊 &nbsp;My GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SirojiddinDev&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SirojiddinDev&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sirojiddin08&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sirojiddin08&theme=tokyonight" width="48%" />
 </p>
 
 ---
@@ -37,18 +37,18 @@
 📌 &nbsp;Pinned Projects:
 
 <!-- Replace with your actual repos -->
-- 🔐 [SecureAuth](https://github.com/yourusername/secureauth): Full-featured auth system (JWT + 2FA + social logins)
-- 📡 [RealTime-Alert-System](https://github.com/yourusername/realtime-alert-system): WebSocket + AI camera-based alerting system
-- 🛒 [TechMart](https://github.com/yourusername/techmart): eCommerce with product/category structure, admin panel, and cart API
+- 🔐 [SecureAuth](https://github.com/sirojiddin08/secureauth): Full-featured auth system (JWT + 2FA + social logins)
+- 📡 [RealTime-Alert-System](https://github.com/sirojiddin08/realtime-alert-system): WebSocket + AI camera-based alerting system
+- 🛒 [TechMart](https://github.com/sirojiddin08/techmart): eCommerce with product/category structure, admin panel, and cart API
 
 ---
 
 📫 &nbsp;Connect with me:
 
 <p align="center">
-  <a href="https://t.me/yourtelegram"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://t.me/Sirojiddin_Rahimov"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="mailto:sirojiddin.devs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sirojiddin-raximov"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
