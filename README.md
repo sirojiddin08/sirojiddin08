@@ -31,11 +31,24 @@
     </tr>
   </table>
 </div>
+---
+
+<h3 align="center">⏱️ My WakaTime Stats</h3>
 
 <div align="center">
-    <img src="https://github-readme-stats-rho-pearl-98.vercel.app/api/top-langs/?username=sirojiddin08&show_icons=true&count_private=true&hide=css,html,vue&layout=compact&theme=tokyonight" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-rho-pearl-98.vercel.app/api/wakatime?username=sirojiddin&theme=tokyonight" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats-rho-pearl-98.vercel.app/api/top-langs/?username=sirojiddin08&show_icons=true&count_private=true&hide=css,html,vue&layout=compact&theme=tokyonight" />
+      </td>
+    </tr>
+  </table>
 </div>
 ---
+
 
 📦 &nbsp;Tech Stack:
 
