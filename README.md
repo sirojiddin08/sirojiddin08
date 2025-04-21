@@ -23,10 +23,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=sirojiddin08&show_icons=true&theme=tokyonight" />
+        <img src="https://github-readme-stats-rho-pearl-98.vercel.app/api?username=sirojiddin08&show_icons=true&theme=tokyonight" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sirojiddin08&theme=tokyonight" />
+        <img src="https://github-readme-stats-rho-pearl-98.vercel.app/?user=sirojiddin08&theme=tokyonight" />
       </td>
     </tr>
   </table>
