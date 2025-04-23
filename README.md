@@ -78,5 +78,3 @@
 ---
 
 <p align="center">🧠 Always learning. Always building. Always leveling up.</p>
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sirojiddin08&theme=react-dark)
